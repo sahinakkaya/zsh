@@ -1,0 +1,15 @@
+.zcompdump
+.zlogin
+.zlogout
+.zpreztorc
+.zprofile
+.zsh_history
+.zsh_sessions
+.zshenv
+.zshrc
+zlogin
+zlogout
+zpreztorc
+zprofile
+zshenv
+zshrc
